@@ -1,2 +1,2 @@
 # RoadmapProjects
-https://roadmap.sh/projects/single-page-cv
+https://github.com/Harishwarsj/RoadmapProjects/blob/main/roadmapCV.html
